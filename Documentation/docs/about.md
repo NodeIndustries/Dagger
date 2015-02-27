@@ -8,7 +8,7 @@
 
 **Language:** Blade
 
-**Web Framework:** Sheath
+**Web Framework:** Alloy
 
 ### Tools
 
@@ -16,11 +16,11 @@
 
 **Operating System:** Gemstone
 
-**Command Line:** Alloy
+**Command Line:** Furnace
 
-**Package Manager:** Ingot
+**Package Manager:** Sheath
 
-**IDE:** Furnace
+**IDE:** Forge
 
 ## Versioning
 
@@ -32,6 +32,8 @@
 
 **Blade** uses various metal types that are often the same as the hilt *(EX: Titanium Blade 1.0)*
 
+**Alloy** uses alloys
+
 **Sheath** uses leathers and fabrics
 
 **Carbon** uses carbon bonds in order of atomic number *(EX: Carbon-Hydrogen 1.0)*
@@ -42,7 +44,7 @@
 
 ### Dagger is built off of itself
 
-Dagger's parts are built as standalone languages that run off Hilt. Therefor Sheath can be run on a web server without Hilt. Dagger will still work but will be more functional and faster with Hilt. This allows Dagger languages to be installed without having to modify files that many server owners are reluctant to touch.
+Dagger's parts are built as standalone languages that run off Hilt. Therefor Alloy can be run on a web server without Blade. This allows Dagger languages to be installed without having to modify files that many server owners are reluctant to touch.
 
 ### Dagger is built to make sense and make the developers happy
 ### Dagger has the features every language should have
