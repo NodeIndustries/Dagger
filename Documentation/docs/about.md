@@ -53,3 +53,7 @@ Dagger's parts are built as standalone languages that run off Hilt. Therefor She
 Dagger is aesthetically pleasing and makes your code look beautiful and readable.
 ### Dagger is the language to end all other languages
 Of corse Dagger is not replacing the stuff that doesn't need replacing. In-page Javascript, HTML, and CSS for example, do not need to be replaced. Only improved. The goal is to take all the best concepts of all kinds of languages and put them together. To improve them, and to add brand new concepts to change they way developers program.  It is as easy as **ERSC**: Efficiency, reliability, scalability, and compatibility.
+
+#IRC
+**Join our IRC!**
+##dagger on [irc.freenode.net](http://webchat.freenode.net/?channels=%23%23dagger&uio=MT11bmRlZmluZWQb1)
