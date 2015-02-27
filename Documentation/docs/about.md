@@ -56,4 +56,4 @@ Of corse Dagger is not replacing the stuff that doesn't need replacing. In-page 
 
 #IRC
 **Join our IRC!**
-##dagger on [irc.freenode.net](http://webchat.freenode.net/?channels=%23%23dagger&uio=MT11bmRlZmluZWQb1)
+Join ##dagger on [irc.freenode.net](http://webchat.freenode.net/?channels=%23%23dagger&uio=MT11bmRlZmluZWQb1)
